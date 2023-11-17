@@ -11,7 +11,6 @@
  * */ 
 
 function isPrimeNumber(number) {
-    // Biến cờ hiệu
     var result = true;
 
     if (number < 2){
